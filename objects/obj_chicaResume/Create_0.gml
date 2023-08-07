@@ -1,0 +1,1 @@
+frames_pasados = 0;
